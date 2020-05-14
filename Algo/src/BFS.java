@@ -17,7 +17,6 @@ public class BFS {
 	void addEdge(int v , int w) {
 		adj[v].add(w);
 	}
-	
 	void BFS(int s) {
 		boolean visited[] = new boolean[V];
 		
