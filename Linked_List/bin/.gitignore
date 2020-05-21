@@ -9,3 +9,5 @@
 /insertNode2.class
 /deleteNode.class
 /deleteNode$Node.class
+/deleteNodeAfter.class
+/deleteNodeAfter$Node.class
